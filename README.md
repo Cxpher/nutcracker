@@ -28,7 +28,7 @@ What are the factors that determine whether a driver accepts the coupon once it 
 |9.  | 'Direction towards destination (same or opposite)' being a factor in my independent investigation, while looking at most popular accepted category of coupons ('Coffee House'), it was clear that most drivers were not willing to take a detour when their destination was home or work. Similar numbers applied to acceptance rates when their direction was the same towards home or work. Majority of the accepted coupons were accepted by drivers who had no urgent place to go to and were willing to take a detour as needed to use the coupon. |      |
 
 ## Recommendations to establishment partners
-* Ensure coupons are sent to drivers during seasons of warmer weather (approx. 80 degrees fahrenheit).
-* Check to ensure that a driver has not been to an establishment (accepted and used vouchers could be one way) more than 3 times within the month before sending him or her a coupon.
-* Target specific age group of between 25 to 30 years old for bar coupons. Additionally, it'll be good to ensure that these drivers are not married, which will reduce the likelihood of them being with kids as passengers.
-* It will be good to target drivers during weekends instead of weekdays as this would mean that they will likely not be on the way to home or work and may not have any urgent place to go, thus increasing the likelihood of them accepting coupons.
+1. Ensure coupons are sent to drivers during seasons of warmer weather (approx. 80 degrees fahrenheit).
+2. Check to ensure that a driver has not been to an establishment (accepted and used vouchers could be one way) more than 3 times within the month before sending him or her a coupon.
+3. Target specific age group of between 25 to 30 years old for bar coupons. Additionally, it'll be good to ensure that these drivers are not married, which will reduce the likelihood of them being with kids as passengers.
+4. It will be good to target drivers during weekends instead of weekdays as this would mean that they will likely not be on the way to home or work and may not have any urgent place to go, thus increasing the likelihood of them accepting coupons.
